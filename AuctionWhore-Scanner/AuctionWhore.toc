@@ -1,0 +1,6 @@
+## Interface: 30100
+## Title:           AuctionWhore
+## Notes:           Keith is the best
+## SavedVariables: AW_SCANS
+AuctionWhore.lua
+AuctionWhore.xml
